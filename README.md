@@ -13,8 +13,6 @@ Estudante de ADS na FATEC Americana · Monitoring Analyst @ Raster Gerenciamento
 **[fatec-ads](https://github.com/mjaoudat/fatec-ads)** — Atividades e projetos do curso CST ADS  
 `C` · `Kotlin` · `Java` · `SQL` · `Python`
 
-**[dog-adoption-app](https://github.com/mjaoudat/dog-adoption-app)** — App mobile de adoção de cachorros  
-`Kotlin` · `Android Studio`
 
 ---
 
