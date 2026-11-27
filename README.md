@@ -1,6 +1,6 @@
 # Murilo Jaoudat
 
-Estudante de ADS na FATEC Americana · Monitoring Analyst @ Raster Gerenciamento de Riscos
+Estudante de ADS na FATEC Americana · Operador de Monitoramento @ Raster Gerenciamento de Riscos
 
 ![FATEC](https://img.shields.io/badge/FATEC%20Americana-ADS%20Sem.%20IV-0F6E56?style=flat-square)
 ![Stack](https://img.shields.io/badge/Stack-C%20%7C%20Kotlin%20%7C%20Java%20%7C%20Python-378ADD?style=flat-square)
